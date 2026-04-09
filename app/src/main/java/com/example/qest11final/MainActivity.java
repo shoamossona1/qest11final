@@ -15,6 +15,11 @@ public class MainActivity extends AppCompatActivity {
     Button btn;
     String stringUrl = "https://www.walla.co.il/";
 
+    /**
+     * verision 1.0
+     * by shoamossona
+     */
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
